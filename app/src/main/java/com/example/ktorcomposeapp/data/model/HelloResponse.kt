@@ -1,4 +1,4 @@
-package com.example.ktorcomposeapp
+package com.example.ktorcomposeapp.data.model
 
 import kotlinx.serialization.Serializable
 

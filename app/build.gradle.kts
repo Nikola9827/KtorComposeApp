@@ -83,5 +83,13 @@ dependencies {
 
 // Coroutines (already usually included, but just in case)
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+    // Koin for Android
+    implementation("io.insert-koin:koin-android:3.5.3")
+
+// Koin ViewModel support
+    implementation("io.insert-koin:koin-android:3.5.3")
+
+// Optional: for Compose if needed later
+    implementation("io.insert-koin:koin-androidx-compose:3.5.3")
 
 }
